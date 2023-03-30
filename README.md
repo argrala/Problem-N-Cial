@@ -13,7 +13,7 @@ Po uruchomieniu programu, użytkownik może ustawić parametry symulacji, takie 
 Aby zakończyć symulację, należy kliknąć przycisk "Stop". W trakcie symulacji, użytkownik może zmieniać parametry ciał oraz obserwować ich trajektorie ruchu.
 # Dokumentacja
 
-Pełna dokumentacja projektu jest dostępna pod adresem: <https://qvipp.github.io/webTest3/>
+Pełna dokumentacja projektu jest dostępna pod adresem: <https://argrala.github.io/Problem-N-Cial/>
 # Licencja
 
 Symulacja problemu n ciał udostępniana jest na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
